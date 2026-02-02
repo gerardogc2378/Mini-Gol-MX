@@ -1,2 +1,9 @@
-# Mini-Gol-MX
-Mini Gol MX a 2D Soccer Game
+# Mini Gol MX Privacy
+
+## A 2D Soccer Game
+
+These permissions are needed
+
+* Vibration feature
+
+We don't collect any other information to share with third ones
